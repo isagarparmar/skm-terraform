@@ -79,8 +79,8 @@ This repository focuses on the **Infrastructure as Code (IaC)** part using Terra
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/smart-kitchen-infra.git
-cd smart-kitchen-infra
+git clone https://github.com/isagarparmar/skm-terraform.git
+cd skm-terraform
 
 # Initialize Terraform
 terraform init
