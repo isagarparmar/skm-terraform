@@ -4,6 +4,8 @@ This repository contains the Terraform code that provisions the cloud infrastruc
 
 SmartKitchenHelper is designed to minimize food waste, simplify meal planning, and support multi-household kitchen inventory management using a scalable and secure AWS cloud architecture.
 
+---
+
 ## 📊 Project Overview
 
 SmartKitchenHelper is a full-stack cloud-native application with:
